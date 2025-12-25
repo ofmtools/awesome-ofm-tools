@@ -14,40 +14,48 @@
 
 ## 🛠️ The OFM Tools Stack
 
-This list covers the essential **OFM Tools** required to run a professional agency. For detailed setups and configurations, visit our [Main Website](https://ofm-tools.com).
+This list covers the essential **OFM Tools** required to run a professional agency. For detailed setups, click the guides below.
 
 ### 🌐 1. Anti-Detect Browsers
 To manage multiple creator accounts safely without linking them.
 * **Dolphin{anty}** - The industry standard for OFM agencies.
 * **AdsPower** - Robust alternative for ad management.
-* **GoLogin** - reliable cloud-based profiles.
-* **Incogniton** - Good free tier option for starters.
+* **GoLogin** - Reliable cloud-based profiles.
+* *👉 [Compare Best Anti-Detect Browsers](https://ofm-tools.com/anti-detect-browsers/)*
 
 ### 🔒 2. Proxies (4G/5G & Residential)
 Never use datacenter IPs. You need high-trust residential connections.
 * **Soax** - High quality residential IPs (US/UK/EU).
-* **BrightData** - The largest proxy network (Enterprise grade).
+* **BrightData** - The largest proxy network.
 * **HydraProxy** - Unlimited bandwidth mobile proxies.
-* *👉 [Read our Guide on Proxy Setup](https://ofm-tools.com)*
+* *👉 [Read the OnlyFans Proxy Guide](https://ofm-tools.com/onlyfans-proxy/)*
 
-### 🤖 3. Automation & Chatting (CRM)
+### 🤖 3. Automation, CRM & AI
 Scale your chatting operations with these OFM tools.
 * **Infloww** - The leading CRM for chatting & scheduling.
 * **Supercreator** - AI-powered chatting assistant.
-* **CreatorHero** - Analytics and management suite.
+* *👉 [Best OnlyFans CRM Review](https://ofm-tools.com/best-onlyfans-crm/)*
+* *👉 [Best AI Chat Tools for OnlyFans](https://ofm-tools.com/ai-chat-onlyfans/)*
 
 ### 💳 4. Banking for OFM
 The hardest part of the business. Virtual cards for ads & creator payouts.
 * **Wise** - Essential for international transfers.
 * **Revolut Business** - Good for team cards.
 * **Airwallex** - Creator-friendly banking.
-* *👉 [See the full Banking List](https://ofm-tools.com)*
+* *👉 [Best Banks for OnlyFans Agencies](https://ofm-tools.com/best-bank-for-onlyfans/)*
 
-### 📝 5. Legal & Contracts
-Protect your agency.
+### 📈 5. Marketing & Promotion
+How to get traffic to your creators.
+* **Reddit** - The #1 source of organic traffic.
+* **TikTok** - High volume funnel strategy.
+* **Dating Apps** - Tinder/Bumble funneling.
+* *👉 [How to Promote OnlyFans (Full Guide)](https://ofm-tools.com/promote-onlyfans/)*
+
+### 📝 6. Legal & Contracts
+Protect your agency and your models.
 * **Agency Service Agreement** - Essential for onboarding talent.
-* **NDA (Non-Disclosure Agreement)** - For your chatters/staff.
-* *🎁 [Download Free OFM Contracts Here](https://ofm-tools.com)*
+* **Model Release Forms** - Compliance requirement.
+* *🎁 [Download Free OnlyFans Agency Contract](https://ofm-tools.com/onlyfans-agency-contract-template/)*
 
 ---
 
