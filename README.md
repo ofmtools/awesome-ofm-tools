@@ -7,8 +7,8 @@
 
 ## ⚡️ Quick Links (Official Sources)
 
-* 🏠 **Main Website:** [**OFM-Tools.com**](https://ofm-tools.com) - *In-depth reviews, tutorials & comparisons.*
-* 📂 **Resource Hub:** [TON LIEN GOOGLE SITE ICI] - *The complete directory back-up.*
+* 🏠 **Main Website:** [**OFM-Tools.com**](https://ofm-tools.com/#https://github.com/) - *In-depth reviews, tutorials & comparisons.*
+* 📂 **Resource Hub:** [(https://sites.google.com/view/ofmtools/ofm-tools)] - *The complete directory back-up.*
 
 ---
 
