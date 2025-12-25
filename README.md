@@ -1,16 +1,14 @@
 # Awesome OFM Tools 🚀
 
 > The ultimate curated list of **OFM Tools**, software, and resources for OnlyFans Management Agencies.
-> Everything you need to scale your agency to 7-figures: Banking, Proxies, Anti-Detect Browsers & Legal Contracts.
+> Everything you need to scale your agency to 7-figures: Banking, Proxies, Anti-Detect Browsers & Contracts.
 
 [![OFM Tools](https://img.shields.io/badge/Official%20Site-OFM--Tools.com-blue?style=for-the-badge)](https://ofm-tools.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/OFMTools_HQ?style=social)](TON LIEN TWITTER ICI)
 
-## ⚡️ Quick Links (The Ecosystem)
+## ⚡️ Quick Links (Official Sources)
 
 * 🏠 **Main Website:** [**OFM-Tools.com**](https://ofm-tools.com) - *In-depth reviews, tutorials & comparisons.*
 * 📂 **Resource Hub:** [TON LIEN GOOGLE SITE ICI] - *The complete directory back-up.*
-* 🐦 **Twitter / X:** [TON LIEN TWITTER ICI] - *Daily tips & updates.*
 
 ---
 
@@ -21,7 +19,7 @@ This list covers the essential **OFM Tools** required to run a professional agen
 ### 🌐 1. Anti-Detect Browsers
 To manage multiple creator accounts safely without linking them.
 * **Dolphin{anty}** - The industry standard for OFM agencies.
-* **AdsPower** - Great for Facebook Ads management.
+* **AdsPower** - Robust alternative for ad management.
 * **GoLogin** - reliable cloud-based profiles.
 * **Incogniton** - Good free tier option for starters.
 
@@ -57,7 +55,7 @@ Protect your agency.
 
 This repository is maintained by the team at **OFM Tools**.
 Found a new tool? Want to update a link?
-Feel free to open a Pull Request or contact us via [Twitter](TON LIEN TWITTER ICI).
+Feel free to open a Pull Request.
 
 ## 📢 Disclaimer
 
