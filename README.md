@@ -56,6 +56,7 @@ Scale your chatting operations with these OFM tools.
 * **BuddyX** - Script management and mass DM, rather than AI generation. — [See pricing →](https://ofm-tools.com/go/buddyx)
 * *👉 [Best OnlyFans CRM Review](https://ofm-tools.com/best-onlyfans-crm/)*
 * *👉 [Best AI Chat Tools for OnlyFans](https://ofm-tools.com/ai-chat-onlyfans/)*
+* *📊 [Open dataset: OnlyFans CRM comparison matrix](https://github.com/ofmtools/onlyfans-crm-comparison) — pricing, security and capability flags for 9 platforms, in CSV and JSON.*
 
 ### 💳 4. Banking for OFM
 The hardest part of the business. Virtual cards for ads & creator payouts.
