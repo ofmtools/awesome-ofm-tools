@@ -89,9 +89,6 @@ Feel free to open a Pull Request.
 ## 📢 Disclaimer
 
 This list is for educational purposes only. We are not affiliated with OnlyFans.
-Some links above are affiliate links: if you sign up through them we may earn a commission, at no
-extra cost to you. It does not change what makes this list — tools we do not earn anything on
-(Revolut Business, Airwallex, Reddit, TikTok) are listed on the same footing as the ones we do.
 
 ---
 *Keywords: OFM Tools, OnlyFans Management, Agency Software, Anti-Detect Browser, 4G Proxies, OFM Banking, OnlyFans Agency Contracts.*
