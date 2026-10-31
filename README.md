@@ -70,6 +70,7 @@ How to get traffic to your creators.
 * **Reddit** - The #1 source of organic traffic.
 * **TikTok** - High volume funnel strategy.
 * **Dating Apps** - Tinder/Bumble funneling.
+* **[TastyFans](https://tastyfans.com)** - Free search engine for OnlyFans, Fansly and other creator pages (160,000+ profiles). Creators can claim their profile and get Featured placement in search results.
 * *👉 [How to Promote OnlyFans (Full Guide)](https://ofm-tools.com/promote-onlyfans/)*
 
 ### 📝 6. Legal & Contracts
