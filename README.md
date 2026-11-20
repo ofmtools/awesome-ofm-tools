@@ -78,6 +78,12 @@ Protect your agency and your models.
 * **Model Release Forms** - Compliance requirement.
 * *🎁 [Download Free OnlyFans Agency Contract](https://ofm-tools.com/onlyfans-agency-contract-template/)*
 
+### 🎯 7. Creator Acquisition Platforms
+Find and onboard creators for your agency.
+
+* **FancyModels** - Private platform where verified OnlyFans agencies onboard vetted creators through creator contracts. [Visit FancyModels →](https://fancymodels.co)
+
+
 ---
 
 ## 🤝 Contribute
